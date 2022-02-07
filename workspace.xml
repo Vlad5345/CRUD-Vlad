@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b87e3bc-f21e-474d-b676-11290128c1ed" name="Changes" comment="" />
+    <list default="true" id="3b87e3bc-f21e-474d-b676-11290128c1ed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +73,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -201,7 +204,7 @@
       <workItem from="1639575449737" duration="10383000" />
       <workItem from="1644253210527" duration="11000" />
       <workItem from="1644253255129" duration="1488000" />
-      <workItem from="1644254799674" duration="899000" />
+      <workItem from="1644254799674" duration="2752000" />
     </task>
     <task id="LOCAL-00001" summary="Last Commit">
       <created>1639040353750</created>
